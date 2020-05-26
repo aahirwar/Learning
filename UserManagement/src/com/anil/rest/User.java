@@ -3,7 +3,7 @@ package com.anil.rest;
 import java.io.Serializable;
 
 import javax.xml.bind.annotation.XmlRootElement;
-
+/*user Class*/
 @XmlRootElement(name="user")
 public class User implements Serializable {
 
